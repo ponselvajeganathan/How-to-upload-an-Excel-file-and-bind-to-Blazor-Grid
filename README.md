@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to upload an Excel workbook and bind the imported data to the Syncfusion Blazor DataGrid. The application reads spreadsheet content from an uploaded Excel file, converts the worksheet data into a format suitable for data binding, and displays the imported records within the DataGrid. This approach is useful in scenarios where users need to load external spreadsheet data into a web application for viewing, filtering, sorting, or further processing without requiring a database import step.
+This sample demonstrates how to upload an Excel workbook and bind the imported data to the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid). The application reads spreadsheet content from an uploaded Excel file, converts the worksheet data into a format suitable for data binding, and displays the imported records within the DataGrid. This approach is useful in scenarios where users need to load external spreadsheet data into a web application for viewing, filtering, sorting, or further processing without requiring a database import step.
 
 ## Key Features
 
